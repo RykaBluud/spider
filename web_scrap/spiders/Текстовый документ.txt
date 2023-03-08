@@ -1,0 +1,9 @@
+write a web scraper for this website https://www.machinio.com
+using scrapy crawler and language python
+firstly it will grab all main categories links from category-thumbnails
+secondly it will visit those links and grab the subcategories links and add 50 pages to them
+Thirdly it will go trough each subcategorie pages and extract all listing pages links
+and then go inside listing pages links to extract data like name, image,manufacturer,model,location,year,mileage,machine_condition,price
+
+
+
